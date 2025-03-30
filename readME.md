@@ -61,7 +61,7 @@ This Course recommendation System that suggests relevant courses based on user r
     Steps to run the program:
     3.2. Clone the repository:
     ```bash
-    git clone https://github.com/danielcoblentz/recommender_system.git
+    git clone https://github.com/danielcoblentz/IBM-Machine-Learning-Capstone
     
     ```
     3.3 Install `requirements.txt`
