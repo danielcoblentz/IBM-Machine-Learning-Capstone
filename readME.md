@@ -45,9 +45,9 @@ This Course recommendation System that suggests relevant courses based on user r
 
 ## There are a few different ways you can view this project:
 
-1) Check the app deployed on Heroku [here]()! As a note there are 3 models that are avaible for doing recommendations I do plan on adding more more of the models from the notebooks when I have time :)
+1) Check the app deployed on Render [here](https://ibm-machine-learning-capstone.onrender.com)! As a note there are 4 models that are avaible for doing recommendations I do plan on adding more more of the models from the notebooks when I have time :)
 
-2) Second you can go into the labs folder and check the notebooks they contain all model definitions, tests and a summary of their contents. I do recommend to open these in google colab.
+2) Second you can go into the notebooks folder and check the notebooks they contain all model definitions, tests and a summary of their contents. I do recommend to open these in google colab.
 
 3) Or you can run it locally on your own system by folowing these steps below.
 
